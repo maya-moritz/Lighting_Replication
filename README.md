@@ -1,5 +1,5 @@
 # Lighting_Replication
-Replication package for MacDonald et al. (2025), published in Criminology and Public Policy. Note: Data processing is not possible to run as private files have been removed.
+Replication package for MacDonald et al. (2025), published in Criminology and Public Policy. Note: Data processing is not possible to run as private files have been removed. Large data files are zipped in order to facilitate upload and will need to be unzipped before use.
 
 ********************************************************************************
 *    PRIVACY NOTE
